@@ -1,0 +1,28 @@
+{
+  "welcomeText" : "Bienvenue",
+  "langue" : "langue",
+  "spacialite" : "Spécialité",
+  "niveau" : "Niveau",
+  "information" : "Informations personnelles",
+  "finance" : "Statut financier",
+  "soutenance" : "Soutenance & Encadrement",
+  "documents" : "Documents academiques",
+  "deconnexion" : "Se deconnecter",
+
+
+  "logitech" : "Logitech",
+  "planning" : "Planning",
+  "accueil" : "Accueil",
+  "exams" : "Examens",
+  "profile" : "Profil",
+
+
+  "normal" : "Session normale",
+  "rattrapage" : "Rattrapage",
+  "decision" : "Décision",
+
+
+  "actualite" : "Actualités",
+  "important" : "Important",
+  "calendrier" : "Calendrier"
+}

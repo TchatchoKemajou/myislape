@@ -1,0 +1,28 @@
+{
+  "welcomeText" : "Welcome",
+  "langue" : "language",
+  "spacialite" : "Speciality",
+  "niveau" : "Level",
+  "information" : "Personal Data",
+  "finance" : "Financial status",
+  "soutenance" : "Defense & Management",
+  "documents" : "Academic files",
+  "deconnexion" : "Log out",
+
+
+  "logitech" : "E-Library",
+  "planning" : "Schedule",
+  "accueil" : "Home",
+  "exams" : "Exams",
+  "profile" : "Profile",
+
+
+  "normal" : "Normal session",
+  "rattrapage" : "Resit",
+  "decision" : "Decision",
+
+
+  "actualite" : "Actuality",
+  "important" : "Important",
+  "calendrier" : "Calendar"
+}
